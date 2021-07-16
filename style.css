@@ -1,0 +1,89 @@
+.container{
+    margin-bottom: 100px;
+}
+.gap{
+    margin-bottom: 0px;
+}
+
+
+.carousel-item{
+    padding: 10px 0px 10px 30px;
+    
+}
+.row p{
+    padding: 5px 70px 5px 0;
+}
+.carousel-inner{
+    background-image: url("images/bg-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.decoration img{
+    margin-left:-110px;
+    margin-top: -40px;
+}
+.categori{
+    padding: 0 15px 0 15px;
+    margin-bottom: 30px;
+}
+.categori a{
+    text-decoration: none;
+    color: orange;
+}
+.card{
+    
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 16px;
+}
+.card img{
+    padding-top: 30px;
+    margin: 0 auto;
+    height: auto;
+    width: 70%;
+}
+.card{
+    margin: 0 auto;
+}
+
+.categorie{
+    margin-top: 50px;
+}
+.farhan{
+    text-align: center;
+    border-bottom: 7px solid transparent;
+    border-image: linear-gradient(60deg, tomato, darkorange);
+    border-image-slice: 1%;
+    
+}
+.image{
+    width: 230px;
+    height: 230px;
+    box-shadow: 5px 5px 16px lightpink;
+    margin-left: 105px;
+    margin-top: 20px;
+    border-radius: 5px 20px 5px 20px;
+}
+.image img{
+    width: 190px;
+    padding:45px;
+    
+}
+.image h5{
+    text-align: center;
+    margin-top: -28px;
+}
+
+.left-image{
+    width: 230px;
+    height: 230px;
+    box-shadow: 5px 5px 16px lightpink;
+    padding: 50px;
+    border-radius: 5px 20px 5px 20px;
+} 
+.khaled img{
+    width: 690px;
+    margin-left: -40px;
+}                        
+
