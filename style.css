@@ -46,15 +46,26 @@
 .card{
     margin: 0 auto;
 }
+.card-body{
+   text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    border-radius: 0 0 20px 20px !important;
+    padding-bottom: 20px;
+}
 
 .categorie{
     margin-top: 50px;
 }
 .farhan{
     text-align: center;
-    border-bottom: 7px solid transparent;
-    border-image: linear-gradient(60deg, tomato, darkorange);
-    border-image-slice: 1%;
+
+}
+.name h5{
+    margin-top: -185px;
+    margin-left: -33px;
     
 }
 .image{
@@ -77,9 +88,9 @@
 
 .left-image{
     width: 230px;
-    height: 230px;
+    height: 235px;
     box-shadow: 5px 5px 16px lightpink;
-    padding: 50px;
+    padding: 65px;
     border-radius: 5px 20px 5px 20px;
 } 
 .khaled img{
