@@ -97,4 +97,8 @@
     width: 690px;
     margin-left: -40px;
 }                        
-
+.footer{
+    color: lightgray;
+    padding-bottom: 15px;
+    padding-top: 50px;
+}
